@@ -1,2 +1,4 @@
 # Mannat-demo
-This is my first Git Repository Author-Mannat Kumar
+This is my first Git Repository 
+<br>
+Author-Mannat Kumar
